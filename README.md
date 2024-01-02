@@ -71,7 +71,7 @@ Microsoft SQL Server provides a comprehensive set of functions and capabilities 
 
 SQL Example1          |   SQL Example2
 :---------------------| :----------------------:
-![](sql_pic.png)      |     ![](Sql_Pic2'.png)
+![](sql_pic.png)      |     ![](Sql_pic_2'.png)
 
 ---
 
@@ -86,7 +86,7 @@ By implementing the snowflake model and establishing relationships in Power BI, 
 
 Snokeflake_Schema               |   Relationship
 :---------------------          | :----------------------:
-![](Snokeflake_Schema.png)      |     ![](Realtionship.png)
+![](Snowflake_Schema.png)      |     ![](Relationship.png)
 
 ---
 
@@ -110,7 +110,7 @@ Snokeflake_Schema               |   Relationship
 In conclusion, the analysis of ATM servicing and maintenance highlights the importance of treating ATMs as more than just machines. They are crucial financial gateways that require careful attention and maintenance to ensure their reliability and efficiency. The findings emphasize the need to prioritize the maintenance of the least maintained ATMs and to provide special care to ATMs located near student environments, considering their high transaction volume.
 By embracing data-driven optimization, banks and financial institutions can enhance the overall customer experience and maximize the value of ATMs as convenient and reliable self-service channels. Utilizing insights from data analysis, banks can allocate resources effectively, optimize maintenance schedules, and improve the performance and availability of ATMs.
 In this data-driven era, leveraging tools like Microsoft SQL Server, Microsoft Power BI Desktop, and Microsoft Fabric enables efficient data management, analysis, and visualization, empowering organizations to make informed decisions and drive continuous improvements in ATM servicing and maintenance.
-By taking proactive measures to optimize servicing and maintenance processes, banks can minimize downtime, prevent disruptions, and provide customers with a seamless and reliable ATM experience. This, in turn, strengthens customer satisfaction, builds trust, and reinforces the role of ATMs as vital components of the modern banking landscape. _**Click here to interact with the full project[Here](https://app.powerbi.com/view?r=eyJrIjoiNTVlZDcyODctNTM0Ny00MTkzLWFmOWQtYTU1NTA4Mzc3NjU4IiwidCI6ImFiZGNmZDJiLTM1MWUtNGViYi05MTk3LTJmN2UyMDRkMzJjNyJ9)**_
+By taking proactive measures to optimize servicing and maintenance processes, banks can minimize downtime, prevent disruptions, and provide customers with a seamless and reliable ATM experience. This, in turn, strengthens customer satisfaction, builds trust, and reinforces the role of ATMs as vital components of the modern banking landscape. _**Click here to interact with the full project [Here](https://app.powerbi.com/view?r=eyJrIjoiNTVlZDcyODctNTM0Ny00MTkzLWFmOWQtYTU1NTA4Mzc3NjU4IiwidCI6ImFiZGNmZDJiLTM1MWUtNGViYi05MTk3LTJmN2UyMDRkMzJjNyJ9)**_
 
 ---
 
@@ -134,5 +134,6 @@ In today's digital landscape, ensuring maximum security is of utmost importance 
 
 ## Additional Resources
 
-Project Data set **_[Here](https://www.novypro.com/project/atm-service-optimization)**_
-Dax Analysis Expression Function (DAX) and SQL SCRIPT [Here]
+1. Project Data set **[Here](https://www.novypro.com/project/atm-service-optimization)**
+
+2. Dax Analysis Expression Function (DAX) and SQL SCRIPT **[Here](script)**
