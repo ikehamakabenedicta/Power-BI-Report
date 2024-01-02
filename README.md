@@ -136,4 +136,4 @@ In today's digital landscape, ensuring maximum security is of utmost importance 
 
 1. Project Data set **[Here](https://www.novypro.com/project/atm-service-optimization)**
 
-2. Dax Analysis Expression Function (DAX) and SQL SCRIPT **[Here](script)**
+2. Dax Analysis Expression Function (DAX) and SQL SCRIPT **[Here](https://docs.google.com/document/d/11sVjv9W0YfNkhwUkAcmmgCB1QF45NlMUPgnxG2GMfNY/edit?usp=sharing)**
