@@ -53,8 +53,7 @@ By analyzing this dataset, the project aims to gain insights into ATM usage patt
 ---
 
 ## Data Sourcing 
-
-Enhance comprehension of the data, Through its comprehensive explanations, it enables users to grasp the underlying essence, content, and interrelationships of the data elements. Armed with this profound understanding, analysts and data scientists can conduct more effective and insightful data analysis, allowing for deeper interpretation and meaningful insights. By explicitly defining the allowed values, data types, and constraints associated with each column, it serves as a source of reference for maintaining data accuracy and preventing errors during data entry. Consequently, it acts as a safeguard, upholding the integrity of the data and promoting its reliability.
+It enables users to grasp the underlying essence, content, and interrelationships of the data elements. Armed with this profound understanding, analysts and data scientists can conduct more effective and insightful data analysis, allowing for deeper interpretation and meaningful insights. By explicitly defining the allowed values, data types, and constraints associated with each column, it serves as a source of reference for maintaining data accuracy and preventing errors during data entry. Consequently, it acts as a safeguard, upholding the integrity of the data and promoting its reliability.
 
 ---
 
