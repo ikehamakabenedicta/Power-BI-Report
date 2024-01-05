@@ -24,8 +24,6 @@ Access ATM Performance :Evaluating the performance of individual ATMs and compar
 
 To Enhance ATM Maintenance and Servicing: It is crucial to evaluate maintenance schedules and correlate them with ATM performance. By analyzing data on maintenance activities and their impact on ATM downtime and disruptions, we can identify opportunities to improve the efficiency and effectiveness of servicing processes. This evaluation allows us to identify patterns or trends that may indicate the need for adjustments in the maintenance schedule or proactive measures to prevent potential issues. By optimizing servicing and maintenance, we can minimize downtime, maximize ATM availability, and ensure a seamless customer experience.
 
-To Enhance ATM Maintenance and Servicing: It is crucial to evaluate maintenance schedules and correlate them with ATM performance. By analyzing data on maintenance activities and their impact on ATM downtime and disruptions, we can identify opportunities to improve the efficiency and effectiveness of servicing processes. This evaluation allows us to identify patterns or trends that may indicate the need for adjustments in the maintenance schedule or proactive measures to prevent potential issues. By optimizing servicing and maintenance, we can minimize downtime, maximize ATM availability, and ensure a seamless customer experience.
-
 ---
 
 ## Tools Used
@@ -56,7 +54,7 @@ By analyzing this dataset, the project aims to gain insights into ATM usage patt
 
 ## Data Sourcing 
 
-Enhance comprehension of the data. Through its comprehensive explanations, it enables users to grasp the underlying essence, content, and interrelationships of the data elements. Armed with this profound understanding, analysts and data scientists can conduct more effective and insightful data analysis, allowing for deeper interpretation and meaningful insights. By explicitly defining the allowed values, data types, and constraints associated with each column, it serves as a source of reference for maintaining data accuracy and preventing errors during data entry. Consequently, it acts as a safeguard, upholding the integrity of the data and promoting its reliability.
+Enhance comprehension of the data, Through its comprehensive explanations, it enables users to grasp the underlying essence, content, and interrelationships of the data elements. Armed with this profound understanding, analysts and data scientists can conduct more effective and insightful data analysis, allowing for deeper interpretation and meaningful insights. By explicitly defining the allowed values, data types, and constraints associated with each column, it serves as a source of reference for maintaining data accuracy and preventing errors during data entry. Consequently, it acts as a safeguard, upholding the integrity of the data and promoting its reliability.
 
 ---
 
@@ -84,22 +82,22 @@ The relationships were likely established using the primary key and foreign key 
 Additionally, a single filter direction was set for the relationships. This means that filtering applied on one table would propagate to related tables in a single direction, ensuring consistent and synchronized filtering behavior across the data model.
 By implementing the snowflake model and establishing relationships in Power BI, the data can be effectively analyzed, and interactive visualizations can be created to gain insights and tell a compelling data story.
 
-Snokeflake_Schema               |   Relationship
-:---------------------          | :----------------------:
+Snokeflake_Schema              |   Relationship
+:---------------------         | :----------------------:
 ![](Snowflake_Schema.png)      |     ![](Relationship.png)
 
 ---
 
 ## Analysis and Visualization
 
-The detailed four-year analysis of the ATM transactions between 2019 and 2022 provides valuable insights into various aspects of the data. Here are the key findings:
+The detailed  analysis of the ATM transactions between 2019 and 2022 provides valuable insights into various aspects of the data. Here are the key findings:
 1. Transactions: There were a total of 6.52 million ATM transactions recorded during the four-year period, indicating a substantial level of ATM usage.
 2. Transaction Types: Withdrawals were the most dominant transaction type, accounting for 34.99% of all transactions. Transfers, balance inquiries, and deposits followed, with percentages of 24.1%, 20.46%, and 20.45%, respectively.
-3. Student Population: The student population led in terms of transaction volume, with 818,669 transactions recorded. On average, these transactions had a relatively short waiting time of 5.69 minutes
+3. Student Population: The student population led in terms of transaction volume, with 818,669 transactions recorded.
 4. Geographical Distribution: Lagos had the highest share of transactions at 43.21%, indicating a high level of ATM usage in that region. Rivers, Kano, Enugu, and Abuja followed, with percentages of 20.88%, 18.96%, 17.86%, and 8.25%, respectively.
 These insights provide a comprehensive understanding of the ATM usage patterns, transaction types, customer demographics, geographical distribution, waiting times, and maintenance performance. This information can be used to identify areas for improvement, optimize service availability, enhance customer satisfaction, and allocate resources effectively. Visualizations, such as charts and dashboards, can further enhance the understanding and communication of these findings.
 
-Snokeflake_Schema               |   Relationship
+ATM_Survey_Dashboard            |   ATM_Service_Dashboard
 :---------------------          | :----------------------:
 ![](ATM_Survey.png)             |     ![](ATM_Service.png)
 
